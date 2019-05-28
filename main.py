@@ -288,8 +288,8 @@ frame_buttons = tk.Frame(canvas, bg="blue")
 canvas.create_window((0, 0), window=frame_buttons, anchor='nw')
 
 # Add 9-by-5 buttons to the frame
-rows = 9
-columns = 5
+rows = 10
+columns = 6
 buttons = [[tk.Button() for j in range(columns)] for i in range(rows)]
 for i in range(0, rows):
 		for j in range(0, columns):
@@ -310,5 +310,39 @@ canvas.config(scrollregion=canvas.bbox("all"))
 
 # Launch the GUI
 root.mainloop()
+
+
+
+
+
+
+
+
+
+
+# from Tkinter import *
+
+root=tk.Tk()
+frame=tk.Frame(root,width=300,height=300)
+frame.grid(row=0,column=0)
+canvas=tk.Canvas(frame,bg='#FFFFFF',width=400,height=300)
+
+canvas.config(width=400,height=300)
+#canvas.config(xscrollcommand=hbar.set, yscrollcommand=vbar.set)
+canvas.pack(side='left',expand=True,fill='both')
+
+scrollbar = tk.Scrollbar(canvas)
+scrollbar.pack( side = 'right', fill='y' )
+
+mylist = tk.Listbox(canvas, yscrollcommand = scrollbar.set )
+for line in range(1, 101):
+   mylist.insert(tk.END, "This is line number " + str(line))
+
+mylist.pack( side = 'left', fill = 'both' )
+scrollbar.config( command = mylist.yview )
+
+root.mainloop()
+
+
 
 
