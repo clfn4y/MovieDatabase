@@ -162,8 +162,8 @@ class Browse():
 			if self.search_box == window.focus_get() and self.search_box.get() == 'Search':
 					self.search_box.delete(0, tk.END)
 
-	def search_funtction(self):
-		print(self.search_box.get())
+	# def search_funtction(self):
+	# 	print(self.search_box.get())
 
 	def Play_movie(self):
 		pygame.init()
