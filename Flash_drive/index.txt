@@ -1,6 +1,3 @@
-Title: desktop ini
-Location: E:$RECYCLE.BIN\S-1-5-21-1169498835-3648798710-1394558607-1002\desktop.ini
-
 Title: Gifted
 Location: E:Movies\Gifted.2017.720p.BluRay.x264-[YTS.AG].mp4
 
@@ -181,7 +178,7 @@ Location: E:Movies\Action\Other Act\Never.Back.Down.2008.720p.BrRip.x264.YIFY.mp
 Title: Olympus Has Fallen
 Location: E:Movies\Action\Other Act\Olympus.Has.Fallen.2013.720p.BluRay.x264.YIFY.mp4
 
-Title: RbnHud
+Title: Robin Hood
 Location: E:Movies\Action\Other Act\RbnHud.2010.BRRip.Unrated.DC_mediafiremoviez.com.mkv
 
 Title: The A Team EXTENDED
@@ -274,13 +271,13 @@ Location: E:Movies\Action\The Hobbit\The.Hobbit.The.Battle.of.the.Five.Armies.20
 Title: The Hobbit The Desolation of Smaug
 Location: E:Movies\Action\The Hobbit\The.Hobbit.The.Desolation.of.Smaug.2013.720p.BluRay.x264.YIFY.mp4
 
-Title: The Lord of the Rings the Fellowship of the Ring EXTENDED
+Title: The Lord of the Rings the Fellowship of the Ring
 Location: E:Movies\Action\The Lord of the rings\The.Lord.of.the.Rings.the.Fellowship.of.the.Ring.EXTENDED.2001.720p.BrRip.x264.BOKUTOX.YIFY.mp4
 
-Title: The Lord of the Rings The Return of the King EXTENDED
+Title: The Lord of the Rings The Return of the King
 Location: E:Movies\Action\The Lord of the rings\The.Lord.of.the.Rings.The.Return.of.the.King.EXTENDED.2003.720p.BrRip.x264.BOKUTOX.YIFY.mp4
 
-Title: The Lord of the Rings The Two Towers EXTENDED
+Title: The Lord of the Rings The Two Towers
 Location: E:Movies\Action\The Lord of the rings\The.Lord.of.the.Rings.The.Two.Towers.EXTENDED.2002.720p.BrRip.x264.BOKUTOX.YIFY.mp4
 
 Title: The Matrix
@@ -301,7 +298,7 @@ Location: E:Movies\Action\Transformers\Transformers.3.2011.720p.BrRip.x264.YIFY.
 Title: Transformers Age of Extinction
 Location: E:Movies\Action\Transformers\Transformers.Age.of.Extinction.2014.720p.BluRay.x264.YIFY.mp4
 
-Title: Transformers Revenge of the Fallen IMAX EDITION
+Title: Transformers Revenge of the Fallen
 Location: E:Movies\Action\Transformers\Transformers.Revenge.of.the.Fallen.IMAX.EDITION.2009.720p.BrRip.x264.YIFY.mp4
 
 Title: Act Of Valor
@@ -454,7 +451,7 @@ Location: E:Movies\Comedy\Life.Of.The.Party.2018.720p.BluRay.x264-[YTS.AM].mp4
 Title: Overboard
 Location: E:Movies\Comedy\Overboard.1987.720p.BluRay.x264-[YTS.AG].mp4
 
-Title: Semi Pro UNRATED
+Title: Semi Pro
 Location: E:Movies\Comedy\Semi.Pro.UNRATED.2008.720p.BrRip.x264.YIFY.mp4
 
 Title: She's The Man
@@ -490,7 +487,7 @@ Location: E:Movies\Comedy\Ernest Movies\Ernest.Scared.Stupid.1991.720p.BluRay.x2
 Title: Little Fockers
 Location: E:Movies\Comedy\Fockers\Little.Fockers.2010.BrRip.720p.x264.YIFY.mkv
 
-Title: Meet The Fockers BrRip
+Title: Meet The Fockers
 Location: E:Movies\Comedy\Fockers\Meet.The.Fockers.BrRip.720p.x264.YIFY.mkv
 
 Title: Meet The Parents
@@ -604,7 +601,7 @@ Location: E:Movies\Comedy\Other Com\Dinner For Schmucks.2010.mkv
 Title: Dirty Grandpa
 Location: E:Movies\Comedy\Other Com\Dirty.Grandpa.2016.720p.BluRay.x264-[YTS.AG].mp4
 
-Title: Division 3 Footballs Finest
+Title: Division III: Football's Finest
 Location: E:Movies\Comedy\Other Com\Division.3.Footballs.Finest.2011.720p.BluRay.H264.AAC-RARBG.mp4
 
 Title: Due Date
@@ -706,7 +703,7 @@ Location: E:Movies\Comedy\Other Com\Popstar.Never.Stop.Never.Stopping.2016.720p.
 Title: Project X
 Location: E:Movies\Comedy\Other Com\Project.X.2012.EXTENDED.720p.BluRay.x264.mp4
 
-Title: Role Models BrRip
+Title: Role Models
 Location: E:Movies\Comedy\Other Com\Role.Models.BrRip.720p.x264.YIFY.mkv
 
 Title: Sausage Party
@@ -727,7 +724,7 @@ Location: E:Movies\Comedy\Other Com\The Internship [2013] HDRip XViD-ETRG.avi
 Title: The Longest Yard
 Location: E:Movies\Comedy\Other Com\The Longest Yard (2005) 720p BrRip x264 YIFY.mp4
 
-Title: The Other Guys avi
+Title: The Other Guys
 Location: E:Movies\Comedy\Other Com\The Other Guys.avi
 
 Title: The Benchwarmers
@@ -742,7 +739,7 @@ Location: E:Movies\Comedy\Other Com\The.Break.Up.2006.720p.BrRip.x264.YIFY.mp4
 Title: The Bronze
 Location: E:Movies\Comedy\Other Com\The.Bronze.2015.720p.BluRay.x264-[YTS.AG].mp4
 
-Title: The Campaign EXTENDED
+Title: The Campaign
 Location: E:Movies\Comedy\Other Com\The.Campaign.EXTENDED.2012.720p.BRrip.x264.YIFY.mp4
 
 Title: The Dictator
@@ -820,13 +817,13 @@ Location: E:Movies\Comedy\Other Com\Why.Him.2016.720p.BluRay.x264-[YTS.AG].mp4
 Title: Wild Hogs
 Location: E:Movies\Comedy\Other Com\Wild.Hogs.2007.720p.BluRay.x264-[YTS.AG].mp4
 
-Title: Year One Unrated
+Title: Year One
 Location: E:Movies\Comedy\Other Com\Year One Unrated (2009) 720p BrRip x264 YIFY.mp4
 
 Title: You Dont Mess with the Zohan
 Location: E:Movies\Comedy\Other Com\You.Dont.Mess.with.the.Zohan.2008.720p.BrRip.x264.YIFY.mp4
 
-Title: YsMn Br mkv
+Title: Yes Man
 Location: E:Movies\Comedy\Other Com\YsMn.Br.mkv
 
 Title: Zookeeper
@@ -901,7 +898,7 @@ Location: E:Movies\Family & Kids\Aladdin\Aladdin.1992.720p.BRrip.x264.GAZ.YIFY.m
 Title: Aladdin And The King Of Thieves
 Location: E:Movies\Family & Kids\Aladdin\Aladdin.And.The.King.Of.Thieves.1996.720p.BluRay.x264.[YTS.AG].mp4
 
-Title: Are We Done Yet_
+Title: Are We Done Yet
 Location: E:Movies\Family & Kids\Are We Done Yet\Are.We.Done.Yet_.2007.720p.BluRay.x264.YIFY.mp4
 
 Title: Are We There Yet
@@ -952,7 +949,7 @@ Location: E:Movies\Family & Kids\How to Train Your Dragon\How.to.Train.Your.Drag
 Title: How To Train Your Dragon
 Location: E:Movies\Family & Kids\How to Train Your Dragon\How.To.Train.Your.Dragon.2010.720.BrRip.x264.YIFY.mp4
 
-Title: Where the Wild Things Are UNRATED
+Title: Where the Wild Things Are
 Location: E:Movies\Family & Kids\How to Train Your Dragon\Where.the.Wild.Things.Are.UNRATED.2009.720p.BrRip.x264.BOKUTOX.YIFY.mp4
 
 Title: Ice Age Dawn of the Dinosaurs
@@ -988,7 +985,7 @@ Location: E:Movies\Family & Kids\Karate Kid\The.Karate.Kid.2010.720p.BrRip.x264.
 Title: The Karate Kid Part III
 Location: E:Movies\Family & Kids\Karate Kid\The.Karate.Kid.Part.III.1989.720p.BrRip.x264.BOKUTOX.YIFY.mp4
 
-Title: Kung Fu Panda 2 x264 BrRip YIFY
+Title: Kung Fu Panda 2
 Location: E:Movies\Family & Kids\Kung Fu Panda\Kung Fu Panda 2.x264.BrRip.YIFY.mp4
 
 Title: Kung Fu Panda
@@ -1039,7 +1036,7 @@ Location: E:Movies\Family & Kids\Other Kids\Chicken.Run.2000.720p.BrRip.x264.Dec
 Title: Cool Runnings
 Location: E:Movies\Family & Kids\Other Kids\Cool.Runnings.1993.WEBRip.x264-RARBG.mp4
 
-Title: Disney Presents James And The Giant Peach
+Title: James And The Giant Peach
 Location: E:Movies\Family & Kids\Other Kids\Disney.Presents.James.And.The.Giant.Peach.1996.720p.BluRay.H264.AAC-RARBG.mp4
 
 Title: Evan Almighty
@@ -1396,7 +1393,7 @@ Location: E:Movies\SuperHero\Iron Man\Iron Man 2008.720p.BrRip.x264.YIFY.mp4
 Title: Iron Man 3
 Location: E:Movies\SuperHero\Iron Man\Iron.Man.3.2013.720p.BluRay.x264.YIFY.mp4
 
-Title: Iron Man II x264
+Title: Iron Man II
 Location: E:Movies\SuperHero\Iron Man\Iron.Man.II.x264.720p.mkv
 
 Title: Ant-Man
@@ -1414,7 +1411,7 @@ Location: E:Movies\SuperHero\Other SuperHero\Doctor.Strange.2016.720p.BluRay.H26
 Title: Green Lantern
 Location: E:Movies\SuperHero\Other SuperHero\Green.Lantern.2011.EXTENDED.720p.BrRip.x264.YIFY.mp4
 
-Title: Hnck  Br mkv
+Title: Hancock
 Location: E:Movies\SuperHero\Other SuperHero\Hnck..Br.mkv
 
 Title: Suicide Squad
@@ -1513,7 +1510,7 @@ Location: E:Movies\Thriller & Drama\The.Greatest.Showman.2017.720p.WEBRip.x264-[
 Title: The Secret Life of Walter Mitty
 Location: E:Movies\Thriller & Drama\The.Secret.Life.of.Walter.Mitty.2013.720p.BluRay.x264.YIFY.mp4
 
-Title: Alc n Wndld
+Title: Alice in Wonderland
 Location: E:Movies\Thriller & Drama\Alice in Wonderland\Alc.n.Wndld.2010-scOrp.mkv
 
 Title: Alice Through The Looking Glass
@@ -1576,25 +1573,25 @@ Location: E:Movies\Thriller & Drama\Ghost Rider\Ghost.Rider.Spirit.Of.Vengeance.
 Title: Harry Potter And The Deathly Hallows Part 2
 Location: E:Movies\Thriller & Drama\Harry Potter\Harry.Potter.And.The.Deathly.Hallows.Part.2.2011.720p.BrRip.264.YIFY.mkv-muxed.mp4
 
-Title: Harry_Potter_and_the_Chamber_of_Secrets
+Title: Harry Potter and the Chamber of Secrets
 Location: E:Movies\Thriller & Drama\Harry Potter\Harry_Potter_and_the_Chamber_of_Secrets_2002.mkv
 
-Title: Harry_Potter_and_the_Goblet_of_Fire
+Title: Harry Potter and the Goblet of Fire
 Location: E:Movies\Thriller & Drama\Harry Potter\Harry_Potter_and_the_Goblet_of_Fire_2005.mkv
 
-Title: Harry_Potter_and_the_Half_Blood_Prince
+Title: Harry Potter and the Half Blood Prince
 Location: E:Movies\Thriller & Drama\Harry Potter\Harry_Potter_and_the_Half_Blood_Prince_2009.mkv
 
-Title: Harry_Potter_and_the_Order_of_the_Phoenix
+Title: Harry Potter and the Order of the Phoenix
 Location: E:Movies\Thriller & Drama\Harry Potter\Harry_Potter_and_the_Order_of_the_Phoenix_2007.mkv
 
-Title: Harry_Potter_and_the_Philosophers_Stone
+Title: Harry Potter and the Philosophers Stone
 Location: E:Movies\Thriller & Drama\Harry Potter\Harry_Potter_and_the_Philosophers_Stone_2001.mkv
 
-Title: Harry_Potter_and_the_Prisoner_of_Azkaban
+Title: Harry Potter and the Prisoner of Azkaban
 Location: E:Movies\Thriller & Drama\Harry Potter\Harry_Potter_and_the_Prisoner_of_Azkaban_2004.mkv
 
-Title: HP7
+Title: Harry Potter and the Deathly Hallows Part I
 Location: E:Movies\Thriller & Drama\Harry Potter\HP7.2010.BRRip.720p.Bluray.YIFY.mkv
 
 Title: Herbie Goes Bananas
@@ -1651,13 +1648,10 @@ Location: E:Movies\Thriller & Drama\Orther Drama\A Knight's Tale.720p.BrRip.x264
 Title: A Beautiful Mind
 Location: E:Movies\Thriller & Drama\Orther Drama\A.Beautiful.Mind.2001.1080p.BrRip.x264.YIFY.mkv-muxeddddfdf.mp4
 
-Title: Alc n Wndld
-Location: E:Movies\Thriller & Drama\Orther Drama\Alc.n.Wndld.2010-scOrp.mkv
-
 Title: August Rush
 Location: E:Movies\Thriller & Drama\Orther Drama\August.Rush.2007.720p.BrRip.x264.YIFY.mp4
 
-Title: Avatar ECE
+Title: Avatar
 Location: E:Movies\Thriller & Drama\Orther Drama\Avatar.ECE.2009.720p.BrRip.x264.bitloks.YIFY.mp4
 
 Title: Black Swan
@@ -1678,7 +1672,7 @@ Location: E:Movies\Thriller & Drama\Orther Drama\Eddie.The.Eagle.2016.720p.BluRa
 Title: Edward Scissorhands
 Location: E:Movies\Thriller & Drama\Orther Drama\Edward.Scissorhands.1990.720p.BrRip.x264.YIFY.mp4
 
-Title: Fight Club 10th Anniversary Edition
+Title: Fight Club
 Location: E:Movies\Thriller & Drama\Orther Drama\Fight.Club.10th.Anniversary.Edition.1999.720p.BrRip.x264.YIFY.mp4
 
 Title: Focus
@@ -1771,7 +1765,7 @@ Location: E:Movies\Thriller & Drama\Orther Drama\Shutter.Island.2010.720p.x264.a
 Title: Slumdog Millionaire
 Location: E:Movies\Thriller & Drama\Orther Drama\Slumdog Millionaire 2008.720p.BrRip.x264.YIFY.mp4
 
-Title: Snow White and the Huntsman EXTENDED
+Title: Snow White and the Huntsman
 Location: E:Movies\Thriller & Drama\Orther Drama\Snow.White.and.the.Huntsman.EXTENDED.2012.720p.BrRip.x264.YIFY.mp4
 
 Title: Sully
@@ -1908,112 +1902,3 @@ Location: E:Movies\Thriller & Drama\Step Up\Step.Up.All.In.2014.720p.BluRay.x264
 
 Title: Step Up Revolution
 Location: E:Movies\Thriller & Drama\Step Up\Step.Up.Revolution.2012.720p.Bluray.x264.YIFY.mp4
-
-Title: S01E01 - Winter Is Coming avi
-Location: E:TV\Game of Thrones\Season 1\S01E01 - Winter Is Coming.avi
-
-Title: S01E02 - The Kingsroad avi
-Location: E:TV\Game of Thrones\Season 1\S01E02 - The Kingsroad.avi
-
-Title: S01E03 - Lord Snow avi
-Location: E:TV\Game of Thrones\Season 1\S01E03 - Lord Snow.avi
-
-Title: S01E04 - Cripples, Bastards and Broken Things avi
-Location: E:TV\Game of Thrones\Season 1\S01E04 - Cripples, Bastards and Broken Things.avi
-
-Title: S01E05 - The Wolf and the Lion avi
-Location: E:TV\Game of Thrones\Season 1\S01E05 - The Wolf and the Lion.avi
-
-Title: S01E06 - A Golden Crown avi
-Location: E:TV\Game of Thrones\Season 1\S01E06 - A Golden Crown.avi
-
-Title: S01E07 - You Win or You Die avi
-Location: E:TV\Game of Thrones\Season 1\S01E07 - You Win or You Die.avi
-
-Title: S01E08 - The Pointy End avi
-Location: E:TV\Game of Thrones\Season 1\S01E08 - The Pointy End.avi
-
-Title: S01E09 - Baelor avi
-Location: E:TV\Game of Thrones\Season 1\S01E09 - Baelor.avi
-
-Title: S01E10 - Fire and Blood avi
-Location: E:TV\Game of Thrones\Season 1\S01E10 - Fire and Blood.avi
-
-Title: Thumbs db
-Location: E:TV\Game of Thrones\Season 1\Thumbs.db
-
-Title: ehthumbs_vista db
-Location: E:TV\Game of Thrones\Season 2\ehthumbs_vista.db
-
-Title: Game of Thrones S02E01 avi
-Location: E:TV\Game of Thrones\Season 2\Game of Thrones S02E01.avi
-
-Title: Game of Thrones S02E02 avi
-Location: E:TV\Game of Thrones\Season 2\Game of Thrones S02E02.avi
-
-Title: Game of Thrones S02E03 avi
-Location: E:TV\Game of Thrones\Season 2\Game of Thrones S02E03.avi
-
-Title: Game of Thrones S02E04 mkv
-Location: E:TV\Game of Thrones\Season 2\Game of Thrones S02E04.mkv
-
-Title: Game of Thrones S02E05 mkv
-Location: E:TV\Game of Thrones\Season 2\Game of Thrones S02E05.mkv
-
-Title: Game of Thrones S02E06 mkv
-Location: E:TV\Game of Thrones\Season 2\Game of Thrones S02E06.mkv
-
-Title: Game of Thrones S02E07 mkv
-Location: E:TV\Game of Thrones\Season 2\Game of Thrones S02E07.mkv
-
-Title: Game of Thrones S02E08 mkv
-Location: E:TV\Game of Thrones\Season 2\Game of Thrones S02E08.mkv
-
-Title: Game of Thrones S02E09 mkv
-Location: E:TV\Game of Thrones\Season 2\Game of Thrones S02E09.mkv
-
-Title: Game of Thrones S02E09
-Location: E:TV\Game of Thrones\Season 2\Game of Thrones S02E09.mp4
-
-Title: Game of Thrones S02E10 mkv
-Location: E:TV\Game of Thrones\Season 2\Game of Thrones S02E10.mkv
-
-Title: Game of Thrones S03E01
-Location: E:TV\Game of Thrones\Season 3\Game of Thrones S03E01.mp4
-
-Title: Game of Thrones S03E02
-Location: E:TV\Game of Thrones\Season 3\Game of Thrones S03E02.mp4
-
-Title: Game of Thrones S03E03
-Location: E:TV\Game of Thrones\Season 3\Game of Thrones S03E03.mp4
-
-Title: Game of Thrones S03E04
-Location: E:TV\Game of Thrones\Season 3\Game of Thrones S03E04.mp4
-
-Title: Game of Thrones S03E05
-Location: E:TV\Game of Thrones\Season 3\Game of Thrones S03E05.mp4
-
-Title: Game of Thrones S03E06
-Location: E:TV\Game of Thrones\Season 3\Game of Thrones S03E06.mp4
-
-Title: Game of Thrones S03E07
-Location: E:TV\Game of Thrones\Season 3\Game of Thrones S03E07.mp4
-
-Title: Game of Thrones S03E08
-Location: E:TV\Game of Thrones\Season 3\Game of Thrones S03E08.mp4
-
-Title: Game of Thrones S03E09
-Location: E:TV\Game of Thrones\Season 3\Game of Thrones S03E09.mp4
-
-Title: Game of Thrones S03E10
-Location: E:TV\Game of Thrones\Season 3\Game of Thrones S03E10.mp4
-
-Title: Game of Thrones S04E01 mkv
-Location: E:TV\Game of Thrones\Season 4\Game of Thrones S04E01.mkv
-
-Title: Game of Thrones S04E02
-Location: E:TV\Game of Thrones\Season 4\Game of Thrones S04E02.mp4
-
-Title: Game of Thrones S04E03
-Location: E:TV\Game of Thrones\Season 4\Game of Thrones S04E03.mp4
-

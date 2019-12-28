@@ -3,3 +3,4 @@
 *.mkv
 /static/upload
 *.db
+.env

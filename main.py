@@ -1,5 +1,11 @@
 import tmdbsimple as tmdb  
-tmdb.API_KEY = '3aac901eabe71551bd666ed711135477'
+
+from dotenv import load_dotenv  
+import os
+
+load_dotenv()
+tmdb_token = os.getenv('TMDB_TOKEN')
+tmdb.API_KEY = tmdb_token
 
 import requests
 from io import BytesIO
