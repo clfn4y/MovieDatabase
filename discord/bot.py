@@ -161,10 +161,13 @@ async def check_cmd(ctx, movie):
 	else:
 		response = "Not Found\n\n"
 		response += "Similar:\n"
+		count = 0
 		for x in re.findall(r'\S+', movie):
 			for row in c.execute('SELECT * FROM movies'):
 				if x.lower() in row[1].lower():
-					response += row[1] + "\n"
+					if count <= 20:
+						response += row[1] + "\n"
+						count += 1
 	await ctx.send(response)
 
 @bot.command(name='get:', help='This will download a movie (get: "movie")')
